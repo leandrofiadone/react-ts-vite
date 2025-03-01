@@ -1,6 +1,6 @@
 
 
-## TS-React-Vite-Front-Boilerplate
+# TS-React-Vite-Front-Boilerplate
 
 1. **Create the project structure**:
    - `mkdir FullStackTS-GoogleAuth && cd FullStackTS-GoogleAuth && mkdir TS-Login-Front TS-Login-Back`
@@ -15,7 +15,7 @@
    - Installs routing (`react-router-dom`), HTTP requests (`axios`), styles (`sass`), and types for `react-router-dom`.
 
 
-# ESPAÑOL
+## ESPAÑOL
 
 1. **Crear la estructura del proyecto**:
    - `mkdir FullStackTS-GoogleAuth && cd FullStackTS-GoogleAuth && mkdir TS-Login-Front TS-Login-Back`
